@@ -1,5 +1,10 @@
 let username = prompt("Adınız Nedir");
-document.querySelector("#myName").innerHTML = username;
+let user = document.querySelector("#myName");
+if (username) {
+  user.innerHTML = username;
+} else {
+  user.innerHTML = "canım";
+}
 
 function Clock() {
   let currDate = new Date();

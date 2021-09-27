@@ -1,2 +1,2 @@
-# JavascriptFirstHomework
-Patika.dev first homework
+# Javascript First Homework
+![preview](a.png)
