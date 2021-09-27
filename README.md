@@ -1,2 +1,2 @@
 # Javascript First Homework
-![preview](a.png)
+![preview](b.png)
